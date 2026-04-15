@@ -1,7 +1,7 @@
 ---
 title: "My Journey in Competitive Programming"
 date: 2024-03-15T10:00:00+02:00
-draft: false
+draft: true
 tags: ["competitive-programming", "ICPC", "algorithms"]
 categories: ["programming"]
 description: "How I started competitive programming, the challenges I faced, and the lessons I learned along the way to becoming an ACPC finalist."

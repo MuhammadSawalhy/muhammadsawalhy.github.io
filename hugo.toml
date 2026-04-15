@@ -108,3 +108,7 @@ defaultContentLanguageInSubdir = true
     organization = "ZagEng Team"
     period = "Nov 2021 - Jun 2023"
     description = "Directed the committee to build 13+ telegram bots and automated tasks using Django and Make.com."
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

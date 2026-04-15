@@ -1,0 +1,14 @@
+[[experience]]
+  role = "Software Engineer"
+  company = "SciCave"
+  company_link = "https://scicave.com"
+  period = "Aug 2023 - Jun 2024"
+  country = "Cairo, Egypt"
+  description = "Built web applications using modern technologies and managed cloud deployments."
+  responsibilities = [
+    "Built web apps using TypeScript, React.js, Next.js, Laravel, PHP, and other web technologies.",
+    "Tested the frontend using Cypress and CI/CD pipelines to automate quality checks and testing.",
+    "Managed deployment using Docker and cloud services like AWS EC2.",
+    "Designed UI/UX using Figma and collaborated on requirements gathering."
+  ]
+  technologies = ["TypeScript", "React.js", "Next.js", "Laravel", "PHP", "Cypress", "Docker", "AWS"]

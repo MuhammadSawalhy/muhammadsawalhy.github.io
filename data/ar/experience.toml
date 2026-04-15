@@ -1,0 +1,14 @@
+[[experience]]
+  role = "مهندس برمجيات"
+  company = "SciCave"
+  company_link = "https://scicave.com"
+  period = "أغسطس 2023 - يونيو 2024"
+  country = "القاهرة، مصر"
+  description = "بناء تطبيقات ويب باستخدام تقنيات حديثة وإدارة النشر السحابي."
+  responsibilities = [
+    "بناء تطبيقات ويب باستخدام TypeScript وReact.js وNext.js وLaravel وPHP وتقنيات ويب أخرى.",
+    "اختبار الواجهة الأمامية باستخدام Cypress وأنابيب CI/CD لأتمتة فحوصات الجودة والاختبار.",
+    "إدارة النشر باستخدام Docker وخدمات سحابية مثل AWS EC2.",
+    "تصميم واجهة المستخدم باستخدام Figma والتعاون في جمع المتطلبات."
+  ]
+  technologies = ["TypeScript", "React.js", "Next.js", "Laravel", "PHP", "Cypress", "Docker", "AWS"]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Muhammad Samir Assawalhy</title>
+    <link>http://localhost:1313/en/blogs/</link>
+    <description>Recent content in Blogs on Muhammad Samir Assawalhy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jun 2024 14:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Arabi.js — Arabizing JavaScript</title>
+      <link>http://localhost:1313/en/blogs/building-arabijs/</link>
+      <pubDate>Mon, 10 Jun 2024 14:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/blogs/building-arabijs/</guid>
+      <description>&lt;p&gt;One of my most ambitious projects was Arabi.js — a tool that transforms JavaScript syntax to support Arabic keywords. The idea was simple but powerful: &lt;strong&gt;what if you could write JavaScript in Arabic?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-motivation&#34;&gt;The Motivation&lt;/h2&gt;&#xA;&lt;p&gt;As someone who grew up in Egypt, I noticed that many beginner programmers struggle with the English-centric nature of programming languages. While English proficiency is important in tech, the initial barrier of learning programming concepts AND a foreign language simultaneously can be overwhelming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Journey in Competitive Programming</title>
+      <link>http://localhost:1313/en/blogs/competitive-programming-journey/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/blogs/competitive-programming-journey/</guid>
+      <description>&lt;p&gt;Competitive programming has been one of the most defining experiences of my university years. It all started in my first year at Zagazig University when a senior student introduced me to the ICPC community.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-beginning&#34;&gt;The Beginning&lt;/h2&gt;&#xA;&lt;p&gt;I remember the first time I tried solving a problem on Codeforces. It was a simple &amp;ldquo;A&amp;rdquo; problem, and it took me almost an hour to solve. But the feeling of seeing &amp;ldquo;Accepted&amp;rdquo; for the first time was incredible. That moment hooked me into the world of competitive programming.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

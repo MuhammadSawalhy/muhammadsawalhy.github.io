@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Muhammad Samir Assawalhy</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Home on Muhammad Samir Assawalhy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jun 2024 14:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Arabi.js — Arabizing JavaScript</title>
+      <link>http://localhost:1313/en/blogs/building-arabijs/</link>
+      <pubDate>Mon, 10 Jun 2024 14:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/blogs/building-arabijs/</guid>
+      <description>&lt;p&gt;One of my most ambitious projects was Arabi.js — a tool that transforms JavaScript syntax to support Arabic keywords. The idea was simple but powerful: &lt;strong&gt;what if you could write JavaScript in Arabic?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-motivation&#34;&gt;The Motivation&lt;/h2&gt;&#xA;&lt;p&gt;As someone who grew up in Egypt, I noticed that many beginner programmers struggle with the English-centric nature of programming languages. While English proficiency is important in tech, the initial barrier of learning programming concepts AND a foreign language simultaneously can be overwhelming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Journey in Competitive Programming</title>
+      <link>http://localhost:1313/en/blogs/competitive-programming-journey/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/blogs/competitive-programming-journey/</guid>
+      <description>&lt;p&gt;Competitive programming has been one of the most defining experiences of my university years. It all started in my first year at Zagazig University when a senior student introduced me to the ICPC community.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-beginning&#34;&gt;The Beginning&lt;/h2&gt;&#xA;&lt;p&gt;I remember the first time I tried solving a problem on Codeforces. It was a simple &amp;ldquo;A&amp;rdquo; problem, and it took me almost an hour to solve. But the feeling of seeing &amp;ldquo;Accepted&amp;rdquo; for the first time was incredible. That moment hooked me into the world of competitive programming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;B.S. in Computer and Systems Engineering&lt;/strong&gt; — Zagazig University, Egypt&lt;br&gt;&#xA;&lt;em&gt;Sep 2019 – Jul 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GPA: 3.3 / 4 (84%)&lt;/li&gt;&#xA;&lt;li&gt;Achieved 1st place among university teams in ICPC competitions for three consecutive years&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; JavaScript, TypeScript, Bash, CSS, Sass, OOP, Functional Programming&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; React.js, Next.js, Tailwind CSS, Cypress · Working knowledge of Django, Laravel&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Others:&lt;/strong&gt; Linux, GNU tools, Git, Docker, Kubernetes, Databases, SQL, Monorepos&lt;/p&gt;&#xA;&lt;h2 id=&#34;achievements&#34;&gt;Achievements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;ACPC Finalist (2022, 2023, 2024):&lt;/strong&gt; Qualified to the African and Arab Collegiate Programming Championship&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;NASA Space Apps (Nov 2023):&lt;/strong&gt; Team Pyroguardians got 3rd place and became a global nominee&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IEEEXtreme 17.0 (Oct 2023):&lt;/strong&gt; Top 15 teams out of 198 Egyptian teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;extra-curricular-activities&#34;&gt;Extra-Curricular Activities&lt;/h2&gt;&#xA;&lt;h3 id=&#34;mentor-and-instructor--icpc-community-at-zagazig-university&#34;&gt;Mentor and Instructor — ICPC Community at Zagazig University&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Mar 2022 – Aug 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;Feel free to reach out to me via email or connect with me on social media.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:muhammadSawalhy@gmail.com&#34;&gt;muhammadSawalhy@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/muhammadSawalhy&#34;&gt;muhammadSawalhy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/muhammadsawalhy&#34;&gt;muhammadsawalhy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +201096390741&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/en/experience/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/experience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/en/projects/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/projects/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICPC on Muhammad Samir Assawalhy</title>
+    <link>http://localhost:1313/en/tags/icpc/</link>
+    <description>Recent content in ICPC on Muhammad Samir Assawalhy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Mar 2024 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/icpc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Journey in Competitive Programming</title>
+      <link>http://localhost:1313/en/blogs/competitive-programming-journey/</link>
+      <pubDate>Fri, 15 Mar 2024 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/en/blogs/competitive-programming-journey/</guid>
+      <description>&lt;p&gt;Competitive programming has been one of the most defining experiences of my university years. It all started in my first year at Zagazig University when a senior student introduced me to the ICPC community.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-beginning&#34;&gt;The Beginning&lt;/h2&gt;&#xA;&lt;p&gt;I remember the first time I tried solving a problem on Codeforces. It was a simple &amp;ldquo;A&amp;rdquo; problem, and it took me almost an hour to solve. But the feeling of seeing &amp;ldquo;Accepted&amp;rdquo; for the first time was incredible. That moment hooked me into the world of competitive programming.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

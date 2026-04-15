@@ -1,0 +1,20 @@
+[[projects]]
+  title = "Arabi.js"
+  description = "تعريب لغة جافاسكربت باستخدام محلل Babel.js. اكتب كود جافاسكربت باستخدام الكلمات المفتاحية العربية."
+  image = "/images/projects/arabijs.png"
+  link = "https://github.com/phaserjs/arabijs"
+  tech = "JavaScript,PEG.js,Babel"
+
+[[projects]]
+  title = "رسم - Rasm"
+  description = "آلة حاسبة بيانية لرسم الدوال الرياضية والأشكال الهندسية وتحريكها بلغة تعبيرات قوية."
+  image = "/images/projects/rasm.png"
+  link = "https://github.com/nicholasgasior/rasm"
+  tech = "JavaScript,HTML,Sass,PEG.js,Webpack"
+
+[[projects]]
+  title = "Da7ee7 Bots"
+  description = "لوحة تحكم مبنية بـ Django لأتمتة إرسال الرسائل لعدة بوتات تليجرام لخدمة الطلاب."
+  image = "/images/projects/da7ee7.png"
+  link = "https://github.com/muhammadSawalhy/da7ee7-bots"
+  tech = "Python,Django,JavaScript,Bootstrap"

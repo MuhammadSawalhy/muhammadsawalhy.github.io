@@ -1,0 +1,20 @@
+[[projects]]
+  title = "Arabi.js"
+  description = "JavaScript Arabization based on Babel.js parser. Write JavaScript code using Arabic keywords and identifiers."
+  image = "/images/projects/arabijs.png"
+  link = "https://github.com/phaserjs/arabijs"
+  tech = "JavaScript,PEG.js,Babel"
+
+[[projects]]
+  title = "Rasm"
+  description = "Graphing calculator to plot math functions, draw geometric shapes, and animate them with a powerful expression language."
+  image = "/images/projects/rasm.png"
+  link = "https://github.com/nicholasgasior/rasm"
+  tech = "JavaScript,HTML,Sass,PEG.js,Webpack"
+
+[[projects]]
+  title = "Da7ee7 Bots"
+  description = "Dashboard built with Django to automate sending messages to multiple Telegram bots for student services."
+  image = "/images/projects/da7ee7.png"
+  link = "https://github.com/muhammadSawalhy/da7ee7-bots"
+  tech = "Python,Django,JavaScript,Bootstrap"

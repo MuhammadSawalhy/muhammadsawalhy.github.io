@@ -14,7 +14,6 @@ row2 = [
   { icon = "devicon-laravel-original", name = "Laravel" },
   { icon = "devicon-django-plain", name = "Django" },
   { icon = "devicon-docker-plain", name = "Docker" },
-  { icon = "devicon-kubernetes-plain", name = "Kubernetes" },
   { icon = "devicon-git-plain", name = "Git" },
   { icon = "devicon-linux-plain", name = "Linux" },
   { icon = "devicon-bash-plain", name = "Bash" }

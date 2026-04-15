@@ -80,13 +80,13 @@ defaultContentLanguageInSubdir = true
   linkedin_username = "muhammadsawalhy"
 
   [[params.honors]]
-    institution = "ACPC"
+    institution = "ACPC Competition"
     title = "ACPC Finalist"
     date = "2022, 2023, 2024"
     description = "Qualified to the African and Arab Collegiate Programming Championship three times."
 
   [[params.honors]]
-    institution = "NASA"
+    institution = "NASA Space Apps in Ismailia"
     title = "NASA Space Apps - 3rd Place & Global Nominee"
     date = "November 2023"
     description = "Team Pyroguardians got 3rd place and became a global nominee."

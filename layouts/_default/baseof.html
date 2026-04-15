@@ -178,6 +178,30 @@
     body {
       font-family: 'Noto Sans Arabic', 'Space Grotesk', sans-serif !important;
     }
+    .carousel-track {
+        animation-name: scroll-rtl !important;
+    }
+    .carousel-track-left-to-right {
+        animation-name: scroll-left-to-right-rtl !important;
+    }
+    .carousel-track-reverse {
+        animation-name: scroll-reverse-rtl !important;
+    }
+    
+    @keyframes scroll-rtl {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(calc(100% / 2)); }
+    }
+    
+    @keyframes scroll-left-to-right-rtl {
+        0% { transform: translateX(calc(100% / 2)); }
+        100% { transform: translateX(0); }
+    }
+    
+    @keyframes scroll-reverse-rtl {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(calc(100% / 2)); }
+    }
   </style>
   {{ end }}
 </head>
